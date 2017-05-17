@@ -1,2 +1,2 @@
-# hello-world
-the first github repository
+# Games
+Interactive mind games. 
